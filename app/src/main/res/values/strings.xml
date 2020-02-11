@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WorldTalk</string>
+    <string name="app_name_splash"> <font fgcolor='red'>WORLDTALK</font></string>
 </resources>
